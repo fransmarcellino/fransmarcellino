@@ -1,9 +1,15 @@
+<p align="center">
+  <img src="https://github.com/[USERNAME_GITHUB_ANDA].png" width="150" height="150" style="border-radius: 50%;" alt="Frans Marcellino Profile">
+</p>
+
 # Hi, I'm Frans Marcellino 👋
 
-[![W3C](https://img.shields.io/badge/W3C-Validated-blue?style=for-the-badge&logo=w3c&logoColor=white)](https://validator.w3.org/)
-[![PageSpeed](https://img.shields.io/badge/PageSpeed-100%25-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pagespeed.web.dev/)
-[![GTmetrix](https://img.shields.io/badge/GTmetrix-Grade%20A-green?style=for-the-badge&logo=lighthouse&logoColor=white)](https://gtmetrix.com/)
-[![WAVE](https://img.shields.io/badge/WAVE-Accessible-orange?style=for-the-badge&logo=accessibleicon&logoColor=white)](https://wave.webaim.org/)
+<p align="center">
+  [![W3C](https://img.shields.io/badge/W3C-Validated-blue?style=for-the-badge&logo=w3c&logoColor=white)](https://validator.w3.org/)
+  [![PageSpeed](https://img.shields.io/badge/PageSpeed-100%25-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pagespeed.web.dev/)
+  [![GTmetrix](https://img.shields.io/badge/GTmetrix-Grade%20A-green?style=for-the-badge&logo=lighthouse&logoColor=white)](https://gtmetrix.com/)
+  [![WAVE](https://img.shields.io/badge/WAVE-Accessible-orange?style=for-the-badge&logo=accessibleicon&logoColor=white)](https://wave.webaim.org/)
+</p>
 
 ## Web Performance & Accessibility Specialist
 I am a student developer dedicated to building high-performance web architectures. I specialize in **Zero-Latency Design** and **Universal Accessibility**, ensuring every line of code is 100% compliant with global standards.
