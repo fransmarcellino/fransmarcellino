@@ -1,7 +1,7 @@
 # Hi, I'm Frans Marcellino 👋
 
 <p align="center">
-  <img src="https://github.com/[USERNAME_GITHUB_ANDA].png" width="150" height="150" style="border-radius: 50%;" alt="Frans Marcellino Profile">
+  <img src="https://github.com/fransmarcellino.png" width="150" height="150" style="border-radius: 50%;" alt="Frans Marcellino Profile">
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ I am a student developer dedicated to building high-performance web architecture
 * **Efficiency First:** Developed under hardware constraints (4GB RAM), my code is optimized to be extremely lightweight and fast on any device.
 * **Standard-Driven:** Obsessive about **W3C Validation** to ensure long-term sustainability and SEO excellence.
 * **Accessible for All:** Verified by **WAVE**, my architectures prioritize inclusivity without sacrificing speed.
-* **Data-Proven:** I don't just build; I audit. Every project is verified by **Google PageSpeed Insights** and **GTmetrix**.
+* **Data-Proven:** I don't just build; I audit.
 
 ---
 
@@ -32,16 +32,14 @@ This screenshot verifies that the **Elite Vault** architecture achieves a flawle
 </p>
 
 ### 🛠️ W3C Validation (0 Errors, 0 Warnings)
-My code adheres strictly to global web standards.
+My code adheres strictly to global web standards for both structure and styling.
 
 #### 🔹 HTML5 Semantic Integrity
-This screenshot verifies that the HTML structure is 100% valid.
 <p align="left">
   <img src="./audits/w3c-html.png" width="600" alt="W3C HTML Validation Proof">
 </p>
 
 #### 🔹 CSS3 Style Excellence
-This screenshot verifies that the CSS architecture is 100% clean and valid.
 <p align="left">
   <img src="./audits/w3c-css.png" width="600" alt="W3C CSS Validation Proof">
 </p>
@@ -53,7 +51,7 @@ A complete performance audit showcasing excellent load times and structure.
 </p>
 
 ### ♿ WAVE Accessibility Evaluation (0 Errors)
-Diverifikasi oleh **WAVE**, arsitektur saya memprioritaskan inklusivitas tanpa mengorbankan kecepatan.
+Verified by **WAVE**, my architectures prioritize inclusivity without sacrificing speed.
 <p align="left">
   <img src="./audits/wave-accessibility.png" width="600" alt="WAVE Accessibility Evaluation Report">
 </p>
