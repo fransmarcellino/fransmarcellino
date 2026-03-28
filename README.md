@@ -1,8 +1,8 @@
+# Hi, I'm Frans Marcellino 👋
+
 <p align="center">
   <img src="https://github.com/[USERNAME_GITHUB_ANDA].png" width="150" height="150" style="border-radius: 50%;" alt="Frans Marcellino Profile">
 </p>
-
-# Hi, I'm Frans Marcellino 👋
 
 <p align="center">
   [![W3C](https://img.shields.io/badge/W3C-Validated-blue?style=for-the-badge&logo=w3c&logoColor=white)](https://validator.w3.org/)
@@ -19,6 +19,44 @@ I am a student developer dedicated to building high-performance web architecture
 * **Standard-Driven:** Obsessive about **W3C Validation** to ensure long-term sustainability and SEO excellence.
 * **Accessible for All:** Verified by **WAVE**, my architectures prioritize inclusivity without sacrificing speed.
 * **Data-Proven:** I don't just build; I audit. Every project is verified by **Google PageSpeed Insights** and **GTmetrix**.
+
+---
+
+## 📊 Official Audit Proof (Elite Vault Series)
+This section provides verifiable proof of the performance and quality achieved in my private projects.
+
+### 🚀 Google PageSpeed Insights (Perfect 100/100 Score)
+This screenshot verifies that the **Elite Vault** architecture achieves a flawless performance score.
+<p align="left">
+  <img src="./audits/pagespeed-core.png" width="600" alt="PageSpeed Score 100/100">
+</p>
+
+### 🛠️ W3C Validation (0 Errors, 0 Warnings)
+My code adheres strictly to global web standards.
+
+#### 🔹 HTML5 Semantic Integrity
+This screenshot verifies that the HTML structure is 100% valid.
+<p align="left">
+  <img src="./audits/w3c-html.png" width="600" alt="W3C HTML Validation Proof">
+</p>
+
+#### 🔹 CSS3 Style Excellence
+This screenshot verifies that the CSS architecture is 100% clean and valid.
+<p align="left">
+  <img src="./audits/w3c-css.png" width="600" alt="W3C CSS Validation Proof">
+</p>
+
+### 📈 GTmetrix Performance Report (Grade A)
+A complete performance audit showcasing excellent load times and structure.
+<p align="left">
+  <img src="./audits/gtmetrix-grade.png" width="600" alt="GTmetrix Grade A Report">
+</p>
+
+### ♿ WAVE Accessibility Evaluation (0 Errors)
+Diverifikasi oleh **WAVE**, arsitektur saya memprioritaskan inklusivitas tanpa mengorbankan kecepatan.
+<p align="left">
+  <img src="./audits/wave-accessibility.png" width="600" alt="WAVE Accessibility Evaluation Report">
+</p>
 
 ---
 *“Performance is not a luxury, it’s a requirement.”*
